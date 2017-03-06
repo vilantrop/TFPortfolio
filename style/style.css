@@ -1,0 +1,41 @@
+﻿.navbar{
+    background-color:grey;
+    text-align:center;
+}
+.main-logo{
+    font-size:2em;
+    color:white;
+}
+.container{
+    width:auto;
+    padding-top:15px;
+}
+.middle-container{
+    padding-top:15px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.shady-bcg{
+    background-color:#e6e6e6;
+    min-width: 300px;
+}
+.login-container{
+    padding:20px 15px 10px 15px;
+}
+.bcg-bor{
+    border-radius:5px;
+}
+.visible{
+  position: fixed;
+  top: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    padding: 0 15px 0 15px;
+}
+.static-header{
+  background-color: blue;
+  border-radius: 0 0 5px 5px;
+
+}

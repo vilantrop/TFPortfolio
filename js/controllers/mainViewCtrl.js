@@ -1,0 +1,4 @@
+function mainViewCtrl($scope,$location){
+
+
+}
